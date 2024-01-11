@@ -5,3 +5,5 @@
 3. Buscar nuevos miembros para la liga
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
+# NUEVA MISION
+7. El Escuadron Suicida a escapado
